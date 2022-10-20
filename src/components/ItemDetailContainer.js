@@ -6,6 +6,7 @@ import { useParams } from 'react-router-dom'
 const camisetas = [
     {
         id: 1,
+        price: "12500",
         img: 'https://bocashop.vteximg.com.br/arquivos/ids/168359-1000-1000/HE6323_1.jpg?v=637922173219300000',
         name: "Camiseta Titular Boca Juniors",
     },
